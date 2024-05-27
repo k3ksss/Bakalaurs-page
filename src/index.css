@@ -1,0 +1,22 @@
+.switch-button {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  z-index: 1000;  /* Ensure it stays on top of other elements */
+}
+
+.App {
+  width: 100%;  /* Ensure full width */
+  max-width: 100%;  /* Prevent any max-width restrictions */
+  height: 100vh;  /* Take full height of viewport */
+  overflow: hidden;  /* Prevent any scrolling caused by other elements */
+  position: relative;  /* Context for fixed-position children */
+}
+
+iframe {
+  width: 100%;  /* Take full width of its container */
+  height: calc(100vh - 20px);  /* Adjust height subtracting the space for the switch button, considering it might have padding/margins affecting the total height */
+}

@@ -1,0 +1,29 @@
+Katram failam sava datubāze, kuras pēc tam tiek apvienotas
+
+Izmantojot datu tipus veidu litas, kuras var un kuras nevar sal'dizināt. 
+Šajā gadījumā vienīgais ko var salīdzināt ir nedēļa pret nedēļu, mēnesis pret mēnesi utt.
+
+Jāizveido fetcgeris vienādiem datu logiem
+
+select a descr. then another one pops up and to get that fetch a route with the matching x_unit
+
+#     description_id INTEGER,
+#     x_text TEXT,
+#     x_value INTEGER,
+#     x_datetime DATETIME,
+#     value REAL,
+#     name TEXT,
+
+x_units:{gads, menesis}
+
+month and year used for datetime,
+ value is just month 
+and value_text is with year 
+
+
+ONLY ONE YEAR FROM EACH SHEET!!!!
+
+gads vispār laikam ka nav skipojams, tur jāskatās, via description nečakarē
+description netiek iesūtīts
+
+/api/related-data/cs202103.db/1

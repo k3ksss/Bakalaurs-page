@@ -1,0 +1,662 @@
+[
+    {
+        "database": "cs202103.db",
+        "description": "Reģistrētie CSNg ",
+        "id": 1,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Reģistrētie CSNgsm ",
+        "id": 2,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Kopējais bojā gājušo skaits (30 dienas) ",
+        "id": 3,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Kopējais ievainoto skaits ",
+        "id": 4,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Kopējais ievainoto skaits T.sk. smagi ievainoti ",
+        "id": 5,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Bojā gājušo gājēju skaits ",
+        "id": 6,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto gājēju skaits ",
+        "id": 7,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto gājēju skaits T.sk. smagi ievainoti ",
+        "id": 8,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Bojā gājušo velosipēda vadītāju skaits ",
+        "id": 9,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto velosipēda vadītāju skaits ",
+        "id": 10,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto velosipēda vadītāju skaits T.sk. smagi ievainoti ",
+        "id": 11,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Bojā gājušo mopēda vadītāju skaits ",
+        "id": 12,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto mopēda vadītāju skaits ",
+        "id": 13,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto mopēda vadītāju skaits T.sk. smagi ievainoti ",
+        "id": 14,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Bojā gājušo kvadricikla vadītāju skaits ",
+        "id": 15,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto kvadriciklu vadītāju skaits ",
+        "id": 16,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto kvadriciklu vadītāju skaits T.sk. smagi ievainoti ",
+        "id": 17,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Bojā gājušo motocikla vadītāju skaits ",
+        "id": 18,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto motocikla vadītāju skaits ",
+        "id": 19,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto motocikla vadītāju skaits T.sk. smagi ievainoti ",
+        "id": 20,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Bojā gājušo transportlīdzekļu vadītāju skaits ",
+        "id": 21,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto transportlīdzekļu vadītāju skaits ",
+        "id": 22,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto transportlīdzekļu vadītāju skaits T.sk. smagi ievainoti ",
+        "id": 23,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Bojā gājušo pasažieru skaits ",
+        "id": 24,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto pasažieru skaits ",
+        "id": 25,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto pasažieru skaits T.sk. smagi ievainoti ",
+        "id": 26,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Bojā gājušo bērnu skaits ",
+        "id": 27,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto bērnu skaits ",
+        "id": 28,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202103.db",
+        "description": "Ievainoto bērnu skaits T.sk. smagi ievainoti ",
+        "id": 29,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202104.db",
+        "description": "CSNg ar cietušajiem",
+        "id": 1,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202104.db",
+        "description": "Bojā gājuši (30 dienas)",
+        "id": 2,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202104.db",
+        "description": "Ievainoti (kopā)",
+        "id": 3,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202104.db",
+        "description": "Smagi ievainoti",
+        "id": 4,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202107.db",
+        "description": "CSNg (kopā)",
+        "id": 1,
+        "x_unit": "menesis"
+    },
+    {
+        "database": "cs202107.db",
+        "description": "CSNg (kopā) alkohola ietekmē",
+        "id": 2,
+        "x_unit": "menesis"
+    },
+    {
+        "database": "cs202107.db",
+        "description": "CSNg ar cietušajiem",
+        "id": 3,
+        "x_unit": "menesis"
+    },
+    {
+        "database": "cs202107.db",
+        "description": "CSNg ar cietušajiem alkohola ietekmē",
+        "id": 4,
+        "x_unit": "menesis"
+    },
+    {
+        "database": "cs202107.db",
+        "description": "Bojā gājušie",
+        "id": 5,
+        "x_unit": "menesis"
+    },
+    {
+        "database": "cs202107.db",
+        "description": "Bojā gājušie alkohola ietekmē",
+        "id": 6,
+        "x_unit": "menesis"
+    },
+    {
+        "database": "cs202107.db",
+        "description": "Ievainotie",
+        "id": 7,
+        "x_unit": "menesis"
+    },
+    {
+        "database": "cs202107.db",
+        "description": "Ievainotie alkohola ietekmē",
+        "id": 8,
+        "x_unit": "menesis"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Latvijā - CSNg ar gājējiem,",
+        "id": 1,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Sadursme,",
+        "id": 2,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums velosipēdistam,",
+        "id": 3,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums stāvošam transportlīdzeklim,",
+        "id": 4,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums pajūgam,",
+        "id": 5,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Apgāšanās, nobraukšana no ceļa,",
+        "id": 6,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Cits veids,",
+        "id": 7,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums šķērslim,",
+        "id": 8,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums dzīvniekam,",
+        "id": 9,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Latvijā - CSNg ar gājējiem,",
+        "id": 10,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Sadursme,",
+        "id": 11,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums velosipēdistam,",
+        "id": 12,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums stāvošam transportlīdzeklim,",
+        "id": 13,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums pajūgam,",
+        "id": 14,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Apgāšanās, nobraukšana no ceļa,",
+        "id": 15,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Cits veids,",
+        "id": 16,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums šķērslim,",
+        "id": 17,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums dzīvniekam,",
+        "id": 18,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar ievainotajiem Latvijā - CSNg ar gājējiem,",
+        "id": 19,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar ievainotajiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Sadursme,",
+        "id": 20,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar ievainotajiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums velosipēdistam,",
+        "id": 21,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar ievainotajiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums stāvošam transportlīdzeklim,",
+        "id": 22,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar ievainotajiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums pajūgam,",
+        "id": 23,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar ievainotajiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Apgāšanās, nobraukšana no ceļa,",
+        "id": 24,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar ievainotajiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Cits veids,",
+        "id": 25,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar ievainotajiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums šķērslim,",
+        "id": 26,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar ievainotajiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums dzīvniekam,",
+        "id": 27,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar smagi ievainotajiem Latvijā - CSNg ar gājējiem,",
+        "id": 28,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar smagi ievainotajiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Sadursme,",
+        "id": 29,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar smagi ievainotajiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums velosipēdistam,",
+        "id": 30,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar smagi ievainotajiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums stāvošam transportlīdzeklim,",
+        "id": 31,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar smagi ievainotajiem Latvijā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums pajūgam,",
+        "id": 32,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar smagi ievainotajiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Apgāšanās, nobraukšana no ceļa,",
+        "id": 33,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar smagi ievainotajiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Cits veids,",
+        "id": 34,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar smagi ievainotajiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums šķērslim,",
+        "id": 35,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar smagi ievainotajiem Latvijā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums dzīvniekam,",
+        "id": 36,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Rīgā - CSNg ar gājējiem,",
+        "id": 37,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Rīgā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Sadursme,",
+        "id": 38,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Rīgā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums velosipēdistam,",
+        "id": 39,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Rīgā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums stāvošam transportlīdzeklim,",
+        "id": 40,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Rīgā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - KOPĀ,",
+        "id": 41,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Rīgā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Cits veids,",
+        "id": 42,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Rīgā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Apgāšanās, nobraukšana no ceļa,",
+        "id": 43,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Rīgā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums šķērslim,",
+        "id": 44,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar cietušajiem Rīgā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums dzīvniekam,",
+        "id": 45,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Rīgā - CSNg ar gājējiem,",
+        "id": 46,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Rīgā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Sadursme,",
+        "id": 47,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Rīgā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums velosipēdistam,",
+        "id": 48,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Rīgā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums stāvošam transportlīdzeklim,",
+        "id": 49,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Rīgā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - KOPĀ,",
+        "id": 50,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Rīgā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Cits veids,",
+        "id": 51,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Rīgā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Apgāšanās, nobraukšana no ceļa,",
+        "id": 52,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Rīgā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums šķērslim,",
+        "id": 53,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā gājušiem Rīgā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums dzīvniekam,",
+        "id": 54,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā ievainotajiem Rīgā - CSNg ar gājējiem,",
+        "id": 55,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā ievainotajiem Rīgā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Sadursme,",
+        "id": 56,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā ievainotajiem Rīgā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums velosipēdistam,",
+        "id": 57,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā ievainotajiem Rīgā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums stāvošam transportlīdzeklim,",
+        "id": 58,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā ievainotajiem Rīgā - Divu un vairāku transportlīdzekļu sadursme\t\t\t\t\t\t\t\t\t\t\t - KOPĀ,",
+        "id": 59,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā ievainotajiem Rīgā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Cits veids,",
+        "id": 60,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā ievainotajiem Rīgā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Apgāšanās, nobraukšana no ceļa,",
+        "id": 61,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā ievainotajiem Rīgā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums šķērslim,",
+        "id": 62,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202108.db",
+        "description": "CSNg ar bojā ievainotajiem Rīgā - Viena transportlīdzekļa negadījums\t\t\t\t\t\t\t\t\t\t\t - Uzbraukums dzīvniekam,",
+        "id": 63,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202109.db",
+        "description": "CSNg ar cietušajiem",
+        "id": 1,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202109.db",
+        "description": "CSNg ar cietušajiem vadītājs bija alkohola reibumā",
+        "id": 2,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202109.db",
+        "description": "Bojā gājuši (30 dienas)",
+        "id": 3,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202109.db",
+        "description": "Bojā gājuši (30 dienas) vadītājs bija alkohola reibumā",
+        "id": 4,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202109.db",
+        "description": "Ievainoti",
+        "id": 5,
+        "x_unit": "gads"
+    },
+    {
+        "database": "cs202109.db",
+        "description": "Ievainoti vadītājs bija alkohola reibumā",
+        "id": 6,
+        "x_unit": "gads"
+    }
+]
